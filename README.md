@@ -1,7 +1,11 @@
 # THONG TIN CA NHAN 
+
 Ho va ten : Le Nguyen Thao Trinh
+
 MSSV : 4959010212
+
 Lop :K49C-GDTH
+
 Chuyen nganh : Giao duc Tieu hoc
 
 # PHUONG PHAP DAY TICH CUC
